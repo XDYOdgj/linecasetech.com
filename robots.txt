@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://linecasetech.com/sitemap.xml
